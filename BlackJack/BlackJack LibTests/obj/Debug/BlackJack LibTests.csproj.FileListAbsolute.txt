@@ -1,0 +1,16 @@
+D:\FullSail\PG2\Week2\Lab2\LAB 2 -BLACKJACK OBJECTS\BlackJack LibTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\FullSail\PG2\Week2\Lab2\LAB 2 -BLACKJACK OBJECTS\BlackJack LibTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\FullSail\PG2\Week2\Lab2\LAB 2 -BLACKJACK OBJECTS\BlackJack LibTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\FullSail\PG2\Week2\Lab2\LAB 2 -BLACKJACK OBJECTS\BlackJack LibTests\bin\Debug\BlackJack LibTests.dll
+D:\FullSail\PG2\Week2\Lab2\LAB 2 -BLACKJACK OBJECTS\BlackJack LibTests\bin\Debug\BlackJack LibTests.pdb
+D:\FullSail\PG2\Week2\Lab2\LAB 2 -BLACKJACK OBJECTS\BlackJack LibTests\bin\Debug\BlackJack Lib.dll
+D:\FullSail\PG2\Week2\Lab2\LAB 2 -BLACKJACK OBJECTS\BlackJack LibTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\FullSail\PG2\Week2\Lab2\LAB 2 -BLACKJACK OBJECTS\BlackJack LibTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\FullSail\PG2\Week2\Lab2\LAB 2 -BLACKJACK OBJECTS\BlackJack LibTests\bin\Debug\BlackJack Lib.pdb
+D:\FullSail\PG2\Week2\Lab2\LAB 2 -BLACKJACK OBJECTS\BlackJack LibTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\FullSail\PG2\Week2\Lab2\LAB 2 -BLACKJACK OBJECTS\BlackJack LibTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\FullSail\PG2\Week2\Lab2\LAB 2 -BLACKJACK OBJECTS\BlackJack LibTests\obj\Debug\BlackJack LibTests.csproj.AssemblyReference.cache
+D:\FullSail\PG2\Week2\Lab2\LAB 2 -BLACKJACK OBJECTS\BlackJack LibTests\obj\Debug\BlackJack LibTests.csproj.CoreCompileInputs.cache
+D:\FullSail\PG2\Week2\Lab2\LAB 2 -BLACKJACK OBJECTS\BlackJack LibTests\obj\Debug\BlackJack LibTests.csproj.CopyComplete
+D:\FullSail\PG2\Week2\Lab2\LAB 2 -BLACKJACK OBJECTS\BlackJack LibTests\obj\Debug\BlackJack LibTests.dll
+D:\FullSail\PG2\Week2\Lab2\LAB 2 -BLACKJACK OBJECTS\BlackJack LibTests\obj\Debug\BlackJack LibTests.pdb
