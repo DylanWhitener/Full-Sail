@@ -1,0 +1,5 @@
+﻿  Lab 2 Bit Manipulation.cpp
+D:\FullSail\SDV3111\Week1\Lab 2 Bit Manipulation\Lab 2 Bit Manipulation\Lab 2 Bit Manipulation.cpp(166,29): warning C4554: '<<': check operator precedence for possible error; use parentheses to clarify precedence
+D:\FullSail\SDV3111\Week1\Lab 2 Bit Manipulation\Lab 2 Bit Manipulation\Lab 2 Bit Manipulation.cpp(173,31): warning C4554: '<<': check operator precedence for possible error; use parentheses to clarify precedence
+D:\FullSail\SDV3111\Week1\Lab 2 Bit Manipulation\Lab 2 Bit Manipulation\Lab 2 Bit Manipulation.cpp(180,30): warning C4554: '<<': check operator precedence for possible error; use parentheses to clarify precedence
+  Lab 2 Bit Manipulation.vcxproj -> D:\FullSail\SDV3111\Week1\Lab 2 Bit Manipulation\x64\Debug\Lab 2 Bit Manipulation.exe
